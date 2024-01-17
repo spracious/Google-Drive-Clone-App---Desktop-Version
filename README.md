@@ -1,2 +1,2 @@
 # Google Drive Clone App - Desktop Version
- This Google Drive clone application for desktop is not only a practical file management tool but also an excellent project for mastering CSS.
+This is a desktop-only Google Drive clone application designed to provide users with a seamless file management experience. The application offers essential features for file organization, uploading, downloading, and more, all within an intuitive desktop interface.
